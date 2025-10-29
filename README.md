@@ -1,15 +1,8 @@
 <div align="center">
 <h1 align="center">👋 Hi! I'm Carlos A. Posada</h1>
+<h1 align="center">Automation is the key to unlocking human potential</h1>
 </div>
 
-<!-- Space for future banner -->
-<img src="https://www.canva.com/design/DAGTbOTrVmA/YYbIH62KEbz7dMuGqlXqmQ/view?utm_content=DAGTbOTrVmA&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Personal Banner" width="100%">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-posada-chica-software-engineer/)
-[![Twitter](https://img.shields.io/twitter/follow/CarlosposadaDev?style=social)](https://x.com/CarlosposadaDev)
-[![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-
----
 
 ## 🚀 About Me
 
@@ -45,45 +38,6 @@ My goal is to become a versatile DevOps professional capable of:
 
 ---
 
-## 📂 Future Projects
-
-I am currently working on several projects that I will share soon, including:
-
-- CI/CD implementations.
-- Test automation scripts.
-- Backend projects and integrations with cloud platforms.
-
-<!-- This is where you'll add your projects as they are developed -->
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Project 1</h3>
-<div align="center">
-<img src="YOUR_PROJECT_URL.jpg" width="400" alt="Project Description">
-<p>
-<a href="https://github.com/yourusername/project1" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Project 2</h3>
-<div align="center">
-<img src="YOUR_PROJECT_URL.jpg" width="400" alt="Project Description">
-<p>
-<a href="https://github.com/yourusername/project2" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</div>
-</td>
-</tr>
-</table>
-
----
-
 ## 📫 Connect with Me
 
 I’m always open to learning and collaborating. Feel free to connect with me!
@@ -92,30 +46,6 @@ I’m always open to learning and collaborating. Feel free to connect with me!
 - [Twitter](https://x.com/CarlosposadaDev)
 - [Email](mailto:carlosposada.dev@gmail.com)
 
----
-
-🔗 **"Automation is the key to unlocking human potential."**
-
-
-# Welcome to My GitHub Profile! 👋
-
-![Banner](https://your-link-to-banner-image.png)
-
-Hello, I'm [Your Name]! I'm a QA Automation Engineer and DevOps enthusiast, with experience in both manual and automated testing, as well as backend development. I have a passion for delivering high-quality software and optimizing workflows for efficiency.
-
----
-
-## 📚 About Me
-
-- 💼 I currently work as a QA Automation Engineer at TechGenies and Data Analyst at One Contact by Migesa.
-- 🚀 I am working towards becoming a DevOps expert with a focus on AWS and multiplatform apps (iOS & Android).
-- 🎓 I'm currently preparing for the AWS Cloud Practitioner certification exam on November 25.
-- 🌱 I am continuously learning new tools and technologies to enhance my skill set.
-- 💡 I'm also working on building a question bank with 40-50 frequently asked QA automation engineering interview questions.
-  
-Feel free to explore my repositories to see some of the work I've done!
-
----
 
 ## 🌟 Featured Projects
 
