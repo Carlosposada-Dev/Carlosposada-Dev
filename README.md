@@ -1,156 +1,135 @@
 <div align="center">
-<h1 align="center">👋 Hi! I'm Carlos A. Posada</h1>
 <h1 align="center">Automation is the key to unlocking human potential</h1>
 </div>
 
+<div align="center">
 
-## 🚀 About Me
+# Carlos Andres Posada Chica
 
-I am a **QA Automation Engineer** and **Backend Developer** transitioning into the world of **DevOps**. My expertise lies in multi-platform environments (iOS, Android, and web), with a focus on improving software quality and optimizing development processes.
+### DevOps & Cloud Engineer · AWS & GCP Certified
 
-Currently, I’m expanding my DevOps skills, focusing on:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-posada-chica-software-engineer/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosposada.dev@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CarlosposadaDev)
 
-- **Jenkins** and **GitHub Actions** for CI/CD.
-- Fundamentals of **Cloud Computing** in **AWS** and **Azure**.
-- Exploring **Site Reliability Engineering (SRE)** for more resilient systems.
-
----
-
-## 🌱 My Goals
-
-My goal is to become a versatile DevOps professional capable of:
-
-- **Automating processes** to optimize continuous delivery.
-- **Implementing cloud solutions** to scale applications efficiently.
-- **Collaborating in cross-functional teams** to deliver high-quality products.
+</div>
 
 ---
 
-## 🔧 Skills
+## 👨‍💻 About Me
 
-- **Test Automation:** Selenium, Cypress, Playwright, Puppeteer, Postman, JIRA, Confluence.
-- **Backend Development:** Node.js, Python, SQL.
-- **DevOps:** Jenkins, GitHub Actions, Docker, Kubernetes.
-- **Cloud:** AWS, Azure (in progress).
-- **Databases:** MySQL, PostgreSQL, MongoDB, RDS.
-- **Development Tools:** FastAPI, NestJs, Express.
-- **Others:** Figma, Excel, Drawio.
+Cloud & DevOps Engineer currently at **TechGenies (Texas, Remote)**, designing and implementing enterprise-grade architectures across **AWS** and **Google Cloud**. I specialize in **Infrastructure as Code**, **container orchestration**, **CI/CD automation**, and **cloud security** — including platforms restructured for **HIPAA compliance**.
 
----
+Background in Telecommunications Engineering with strong roots in networking, Zero Trust security, and hybrid architectures. Driven by the idea that well-designed automation removes friction from everything it touches.
 
-## 📫 Connect with Me
-
-I’m always open to learning and collaborating. Feel free to connect with me!
-
-- [LinkedIn](https://www.linkedin.com/in/carlos-andres-posada-chica-software-engineer/)
-- [Twitter](https://x.com/CarlosposadaDev)
-- [Email](mailto:carlosposada.dev@gmail.com)
-
-
-## 🌟 Featured Projects
-
-Coming soon... (This section will highlight some of my most exciting projects in the future!)
+```yaml
+role:        DevOps & Cloud Engineer @ TechGenies
+location:    Carepa, Colombia (Remote)
+focus:       AWS · GCP · Terraform · Kubernetes · CI/CD · Security
+studying:    AWS SysOps Administrator Associate (SOA-C03)
+```
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🏅 Certifications
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-</p>
+### Amazon Web Services
+![AWS Developer Associate](https://img.shields.io/badge/AWS_Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS GenAI](https://img.shields.io/badge/AWS_Educate_GenAI-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+| Certification | Issuer | Date |
+|---|---|---|
+| AWS Certified Developer – Associate | Amazon Web Services | Mar 2026 |
+| AWS Certified AI Practitioner | Amazon Web Services | Feb 2026 |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | Dec 2025 |
+| AWS Certified Cloud Practitioner | Amazon Web Services | Dec 2024 |
+| AWS Educate – Introduction to Generative AI | Amazon Web Services | Mar 2025 |
+
+### Google Cloud
+![GCP Architect](https://img.shields.io/badge/GCP_Professional_Cloud_Architect-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP Associate](https://img.shields.io/badge/GCP_Associate_Cloud_Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GCP Security](https://img.shields.io/badge/GCP_Cloud_Security_Fundamentals-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Google Professional Cloud Architect | Google Cloud | Sep 2025 |
+| Google Associate Cloud Engineer | Google Cloud | Jun 2025 |
+| Implement Cloud Security Fundamentals | Google Cloud | Apr 2025 |
+| Build a Secure Google Cloud Network | Google Cloud | Apr 2025 |
 
 ---
 
-## 📫 How to reach me:
+## 🛠️ Tech Stack
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: [Your Email](mailto:youremail@example.com)
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-Thank you for visiting my profile! I'm always open to connect and discuss new opportunities or collaborate on exciting projects.
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Amazon ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+
+### ⚙️ CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+### 🔐 Security & Networking
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-00ADB5?style=flat-square&logo=shield&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA_Compliant-00897B?style=flat-square&logoColor=white)
+
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square&logo=amazondynamodb&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+> Coming soon — highlight reel in progress.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosposadadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosposadadev&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Telecommunications Engineering student · Universidad de Antioquia · Medellín, Colombia*
+
+</div>
 
 
 
