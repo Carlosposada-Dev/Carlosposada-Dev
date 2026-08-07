@@ -17,7 +17,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Site Reliability Engineer currently at **EPAM Neoris (Remote)**, supporting production infrastructure through **Infrastructure as Code**, incident troubleshooting, and reliability practices. Previously a **DevOps & Cloud Engineer at TechGenies (Texas, Remote)**, designing and implementing enterprise-grade architectures across **AWS** and **Google Cloud**.
 
@@ -34,7 +34,7 @@ learning:    Crossplane (Kubernetes-native IaC)
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 ### AI & Architecture
 ![Claude Certified Architect](https://img.shields.io/badge/Claude_Certified_Architect_--_Foundations-D97757?style=flat-square&logoColor=white)
@@ -76,9 +76,9 @@ learning:    Crossplane (Kubernetes-native IaC)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### ☁️ Cloud & Infrastructure
+###  Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -86,36 +86,36 @@ learning:    Crossplane (Kubernetes-native IaC)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Crossplane](https://img.shields.io/badge/Crossplane_(learning)-1F6FEB?style=flat-square&logoColor=white)
 
-### 🐳 Containers & Orchestration
+### Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Amazon ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Amazon EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
 
-### ⚙️ CI/CD & Automation
+### CI/CD & Automation
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=flat-square&logo=codemagic&logoColor=white)
 
-### 📊 Monitoring & Observability
+### Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-### 🔐 Security & Networking
+### Security & Networking
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-00ADB5?style=flat-square&logo=shield&logoColor=white)
 ![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA_Compliant-00897B?style=flat-square&logoColor=white)
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -123,19 +123,18 @@ learning:    Crossplane (Kubernetes-native IaC)
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 > Coming soon — highlight reel in progress.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosposadadev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosposadadev&layout=compact&theme=tokyonight&hide_border=true)
-
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlosposada-Dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosposada-Dev&layout=compact&theme=tokyonight&hide_border=true)
 </div>
 
 ---
