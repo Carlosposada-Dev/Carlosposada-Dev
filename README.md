@@ -1,12 +1,13 @@
 <div align="center">
+
 <h1 align="center">Automation is the key to unlocking human potential</h1>
+
 </div>
 
 <div align="center">
 
 # Carlos Andres Posada Chica
-
-### DevOps & Cloud Engineer · AWS & GCP Certified
+### Site Reliability Engineer · DevOps & Cloud Engineer · AWS & GCP Certified
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andres-posada-chica-software-engineer/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosposada.dev@gmail.com)
@@ -18,22 +19,34 @@
 
 ## 👨‍💻 About Me
 
-Cloud & DevOps Engineer currently at **TechGenies (Texas, Remote)**, designing and implementing enterprise-grade architectures across **AWS** and **Google Cloud**. I specialize in **Infrastructure as Code**, **container orchestration**, **CI/CD automation**, and **cloud security** — including platforms restructured for **HIPAA compliance**.
+Site Reliability Engineer currently at **EPAM Neoris (Remote)**, supporting production infrastructure through **Infrastructure as Code**, incident troubleshooting, and reliability practices. Previously a **DevOps & Cloud Engineer at TechGenies (Texas, Remote)**, designing and implementing enterprise-grade architectures across **AWS** and **Google Cloud**.
+
+I specialize in **Infrastructure as Code**, **container orchestration**, **CI/CD automation**, and **cloud security** — including platforms restructured for **HIPAA compliance**. Currently expanding into **Kubernetes-native provisioning with Crossplane**.
 
 Background in Telecommunications Engineering with strong roots in networking, Zero Trust security, and hybrid architectures. Driven by the idea that well-designed automation removes friction from everything it touches.
 
 ```yaml
-role:        DevOps & Cloud Engineer @ TechGenies
+role:        Site Reliability Engineer @ EPAM Neoris
 location:    Carepa, Colombia (Remote)
 focus:       AWS · GCP · Terraform · Kubernetes · CI/CD · Security
-studying:    AWS SysOps Administrator Associate (SOA-C03)
+learning:    Crossplane (Kubernetes-native IaC)
 ```
 
 ---
 
 ## 🏅 Certifications
 
+### AI & Architecture
+![Claude Certified Architect](https://img.shields.io/badge/Claude_Certified_Architect_--_Foundations-D97757?style=flat-square&logoColor=white)
+![Generative AI Leader](https://img.shields.io/badge/Generative_AI_Leader_(GAIL)-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Claude Certified Architect – Foundations | Anthropic | Jul 2026 |
+| Generative AI Leader (GAIL) | Google Cloud | Jul 2026 |
+
 ### Amazon Web Services
+![AWS CloudOps Engineer Associate](https://img.shields.io/badge/AWS_CloudOps_Engineer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS Developer Associate](https://img.shields.io/badge/AWS_Developer_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -42,6 +55,7 @@ studying:    AWS SysOps Administrator Associate (SOA-C03)
 
 | Certification | Issuer | Date |
 |---|---|---|
+| AWS Certified CloudOps Engineer – Associate | Amazon Web Services | Apr 2026 |
 | AWS Certified Developer – Associate | Amazon Web Services | Mar 2026 |
 | AWS Certified AI Practitioner | Amazon Web Services | Feb 2026 |
 | AWS Certified Solutions Architect – Associate | Amazon Web Services | Dec 2025 |
@@ -70,6 +84,7 @@ studying:    AWS SysOps Administrator Associate (SOA-C03)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Crossplane](https://img.shields.io/badge/Crossplane_(learning)-1F6FEB?style=flat-square&logoColor=white)
 
 ### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -130,6 +145,3 @@ studying:    AWS SysOps Administrator Associate (SOA-C03)
 *Telecommunications Engineering student · Universidad de Antioquia · Medellín, Colombia*
 
 </div>
-
-
-
